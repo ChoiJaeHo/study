@@ -1,4 +1,5 @@
 print ('hello python world')
+print ('hello git world')
 
 #v1 = int(input('첫번째 숫자를 입력하세요: '))
 #v2 = int(input('두번째 숫자를 입력하세요: '))
